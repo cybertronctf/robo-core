@@ -1,1 +1,0 @@
-print("robo-core FIX2")
